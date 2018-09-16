@@ -2,7 +2,7 @@
 
 def main(msg):
     print(msg)
-#!comments changed
+#comments changed
 
 def secondary():
     print("New function")
